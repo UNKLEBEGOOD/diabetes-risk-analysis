@@ -57,7 +57,7 @@ Python (pandas, numpy, matplotlib, seaborn, scikit-learn) in Jupyter Notebook
 📓 [Diabetes_Risk_Analysis.ipynb](./Diabetes_Risk_Analysis.ipynb)
 
 ## About Me
-Odoh Ekenedirichukwu J. — Registered Nurse with 3+ years of clinical 
+Odoh Ekenedirichukwu J. — Registered Nurse with 5+ years of clinical 
 experience in Ophthalmic Nursing, transitioning into Data Analytics. 
 Currently studying Excel, Power BI, Python, and SQL.  
 [LinkedIn](https://linkedin.com/in/kene08)
